@@ -25,7 +25,7 @@
       <input type="text" class="form-control" id="address" name="address" placeholder="Enter The Full Address">
     </div>
     <div class="col-2">
-      <button type="submit" class="btn btn-primary btn-sm">Search By Address</button>
+      <button type="submit" class="btn btn-primary btn-sm">Search</button>
     </div>
      
   </div>
