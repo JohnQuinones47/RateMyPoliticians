@@ -19,7 +19,7 @@
         
 
   <form  method="get" action="" class="w3-center">
-    <h1>Search and Rate Politicians</h1>
+    <h1>Search and Rate Politician</h1>
   <div class="form-row">
     <div class="col-8">
       <input type="text" class="form-control" id="address" name="address" placeholder="Enter The Full Address">
